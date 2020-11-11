@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# Face-Mask-Detection-from-Images-and-Video-feed
 
 This repository is showing how to detect the masks on the live video stream using openCV.
 
