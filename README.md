@@ -30,7 +30,7 @@ Setps:
 
 4. Click on Predict button to see ‘Mask’ or ‘No Mask’ remark. Mask remark denotes that the images has human with facemask and No Mask remarl denotes that their is no mask in the image. 
 
-![](Detect from Images/face_Mask_Detector_Web_GUI.png)
+![](Detect%20from%20Images/face_Mask_Detector_Web_GUI.png)
 
 
 Alert: Follow the link and get tesoflow installed in your CPU ot GPU. Please create the virtual environment and always run the codes in venv.
