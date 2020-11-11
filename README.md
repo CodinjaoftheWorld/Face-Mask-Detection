@@ -12,9 +12,9 @@ Link to the tutorial: https://www.pyimagesearch.com/2020/05/04/covid-19-face-mas
 Part 1: Detect the Face Mask from Video Feed
 
 Setps:
-      1. Clone the repository, go to directory ‘Detect from video stream’ and run app.py file.
+  1. Clone the repository, go to directory ‘Detect from video stream’ and run app.py file.
 
-      2. Go to http://0.0.0.0:5000/. Grab your mask to check the detection.
+  2. Go to http://0.0.0.0:5000/. Grab your mask to check the detection.
 
 
 Alert: Follow the link and get tesoflow installed in your CPU ot GPU. Please create the virtual environment and always run the codes in venv.
