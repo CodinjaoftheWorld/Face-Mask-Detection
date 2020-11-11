@@ -9,12 +9,27 @@ I highly recommed to work on the below link for model training and mask detectio
 Link to the tutorial: https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 
 
+
 Part 1: Detect the Face Mask from Video Feed
 
 Setps:
   1. Clone the repository, go to directory ‘Detect from video stream’ and run app.py file.
 
   2. Go to http://0.0.0.0:5000/. Grab your mask to check the detection.
+
+
+
+Part 2: Predict the Face Mask on Image
+
+Setps:
+1. Clone the repository, go to directory ‘Detect from Images’ and run app.py file.
+
+2. Go to http://0.0.0.0:5000/ or http://127.0.0.1:5000/
+
+3. Click on Choose button to select the images.
+
+4. Click on Predict button to see ‘Mask’ or ‘No Mask’ remark. Mask remark denotes that the images has human with facemask and No Mask remarl denotes that their is no mask in the image. 
+
 
 
 Alert: Follow the link and get tesoflow installed in your CPU ot GPU. Please create the virtual environment and always run the codes in venv.
